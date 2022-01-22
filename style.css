@@ -21,7 +21,7 @@
 .button {
     background-color: #e79211;
     color: white;
-    border: solid black 2px;
+    border: solid rgb(248, 242, 242) 2px;
     width: 75%;
     margin-left: 10px;
     margin-right: 20px;
